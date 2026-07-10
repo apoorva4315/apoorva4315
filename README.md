@@ -16,7 +16,7 @@
 
 ---
 
-## 🧑‍💻 Who I Am
+## Who I Am
 
 ```typescript
 const apoorvaKulkarni = {
@@ -49,7 +49,7 @@ const apoorvaKulkarni = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -83,7 +83,7 @@ const apoorvaKulkarni = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apoorva4315&show_icons=true&theme=nord&border_color=1A5276&title_color=1A5276&icon_color=1A5276&hide_border=false&count_private=true" />
@@ -96,7 +96,7 @@ const apoorvaKulkarni = {
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=apoorva4315&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
@@ -104,7 +104,7 @@ const apoorvaKulkarni = {
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=apoorva4315&theme=nord&color=1A5276&line=1A5276&point=AED6F1&area=true&hide_border=false" />
@@ -112,7 +112,7 @@ const apoorvaKulkarni = {
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/apoorva-kulkarni-44b943218">
