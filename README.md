@@ -20,7 +20,7 @@
 
 ```typescript
 const apoorvaKulkarni = {
-  title:            "Frontend Developer",
+  title:            "Software Developer",
   stack: {
     languages:      ["JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3"],
     frameworks:     ["React.js", "Redux", "Redux Toolkit", "Context API", "Tailwind CSS"],
@@ -30,7 +30,7 @@ const apoorvaKulkarni = {
     cloud:          ["AWS", "Microsoft Azure", "REST API Integration"],
     tools:          ["Git", "GitHub", "Vite", "Webpack"],
   },
-  experience:       "3+ years @ Kyndryl India (World's largest IT infrastructure provider)",
+  experience:       "4 years @ Kyndryl India (World's largest IT infrastructure provider)",
   achievements: [
     "Reduced page load times by 25% across 3 enterprise dashboards",
     "Cut design-to-production from 5 days → 2 days (60% faster)",
