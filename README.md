@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=apoorva4315&style=for-the-badge&color=1A5276&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/apoorva4315?style=for-the-badge&color=1A5276&labelColor=2C3E50&label=FOLLOWERS" />
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Frontend%20Developer-1A5276?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Software%20Developer-1A5276?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
 
 ---
