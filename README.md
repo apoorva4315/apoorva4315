@@ -1,10 +1,10 @@
 <a href="https://github.com/apoorva4315">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A5276&height=120&section=header&text=Apoorva%20Kulkarni&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20TypeScript%20%7C%20JavaScript&descAlignY=60&descSize=16&descColor=AED6F1" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A5276&height=120&section=header&text=Apoorva%20Kulkarni&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20React.js%20%7C%20Python%20%7C%20JavaScript&descAlignY=60&descSize=16&descColor=AED6F1" />
 </a>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1A5276&center=true&vCenter=true&width=600&lines=Frontend+Developer+with+3%2B+Years+Experience;React.js+%7C+TypeScript+%7C+Redux+Toolkit;Building+Enterprise+Dashboards+%40+Kyndryl+India;REST+API+Integration+%7C+Kibana+%7C+Elasticsearch;Figma-to-Code+%7C+Reusable+Component+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1A5276&center=true&vCenter=true&width=600&lines=Software+Developer+with+3%2B+Years+Experience;React.js+%7C+TypeScript+%7C+Redux+Toolkit;Building+Enterprise+Dashboards+%40+Kyndryl+India;REST+API+Integration+%7C+Kibana+%7C+Elasticsearch;Figma-to-Code+%7C+Reusable+Component+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ const apoorvaKulkarni = {
     "Microsoft Certified: Azure AI Fundamentals (AI-900)",
     "Certified AI Engineer — REVA University",
   ],
-  status:           "Open to high-impact Frontend roles",
+  status:           "Open to high-impact Software Developer roles",
   openTo:           ["Product-focused companies", "Remote-first teams", "Bengaluru based roles"],
   portfolio:        "https://my-portfolio-yg9z-rho.vercel.app",
 };
